@@ -1,0 +1,12 @@
+h3 {
+    text-decoration: underline;
+}
+
+li {
+    font-style: italic;
+}
+
+.chores {
+    font-family: 'Times New Roman';
+    color: blue;
+}
