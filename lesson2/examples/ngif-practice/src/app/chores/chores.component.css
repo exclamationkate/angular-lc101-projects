@@ -6,6 +6,23 @@
     color: #3c79b8;
 }
 
+.workHarder {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+}
+
+.noAllowance {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+}
+
+.treat {
+    color: green;
+    text-align: center;
+}
+
 h3 {
     text-align: center;
 }
